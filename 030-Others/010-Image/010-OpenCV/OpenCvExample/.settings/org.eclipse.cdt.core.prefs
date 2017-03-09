@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cygwin.exe.debug.1589412016/MINGW_HOME/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cygwin.exe.debug.1589412016/MINGW_HOME/operation=append
+environment/project/cdt.managedbuild.config.gnu.cygwin.exe.debug.1589412016/MINGW_HOME/value=C\:\\MinGW
+environment/project/cdt.managedbuild.config.gnu.cygwin.exe.debug.1589412016/MSYS_HOME/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cygwin.exe.debug.1589412016/MSYS_HOME/operation=append
+environment/project/cdt.managedbuild.config.gnu.cygwin.exe.debug.1589412016/MSYS_HOME/value=C\:\\MinGW\\msys\\1.0
+environment/project/cdt.managedbuild.config.gnu.cygwin.exe.debug.1589412016/PATH/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cygwin.exe.debug.1589412016/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cygwin.exe.debug.1589412016/PATH/value=${CYGWIN_HOME}/bin;C\:/Program Files/Java/jre1.8.0_121/bin/server;C\:/Program Files/Java/jre1.8.0_121/bin;C\:/Program Files/Java/jre1.8.0_121/lib/amd64;D\:\\oracle\\product\\10.2.0\\client_1\\bin;d\:\\ProgramData\\Oracle\\Java\\javapath;C\:\\Program Files (x86)\\Intel\\iCLS Client\\;C\:\\Program Files\\Intel\\iCLS Client\\;C\:\\Windows\\system32;C\:\\Windows;C\:\\Windows\\System32\\Wbem;C\:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C\:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C\:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C\:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C\:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C\:\\Program Files (x86)\\Sybase\\Shared\\PowerBuilder\\;D\:\\p\\eclipse-cpp-neon-2-win32-x86_64\\eclipse
+environment/project/cdt.managedbuild.config.gnu.cygwin.exe.debug.1589412016/append=true
+environment/project/cdt.managedbuild.config.gnu.cygwin.exe.debug.1589412016/appendContributed=true
