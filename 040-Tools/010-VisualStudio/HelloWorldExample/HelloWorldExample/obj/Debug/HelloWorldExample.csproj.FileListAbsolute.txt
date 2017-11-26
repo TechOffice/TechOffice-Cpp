@@ -1,6 +1,0 @@
-C:\Users\user\git_workdspace\TechOffice-Cpp\040-Tools\010-VisualStudio\HelloWorldExample\HelloWorldExample\bin\Debug\HelloWorldExample.exe.config
-C:\Users\user\git_workdspace\TechOffice-Cpp\040-Tools\010-VisualStudio\HelloWorldExample\HelloWorldExample\bin\Debug\HelloWorldExample.exe
-C:\Users\user\git_workdspace\TechOffice-Cpp\040-Tools\010-VisualStudio\HelloWorldExample\HelloWorldExample\bin\Debug\HelloWorldExample.pdb
-C:\Users\user\git_workdspace\TechOffice-Cpp\040-Tools\010-VisualStudio\HelloWorldExample\HelloWorldExample\obj\Debug\HelloWorldExample.csprojResolveAssemblyReference.cache
-C:\Users\user\git_workdspace\TechOffice-Cpp\040-Tools\010-VisualStudio\HelloWorldExample\HelloWorldExample\obj\Debug\HelloWorldExample.exe
-C:\Users\user\git_workdspace\TechOffice-Cpp\040-Tools\010-VisualStudio\HelloWorldExample\HelloWorldExample\obj\Debug\HelloWorldExample.pdb
